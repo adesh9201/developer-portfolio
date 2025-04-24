@@ -7,7 +7,7 @@ function Typing() {
             options={{
                 strings: [
                     "Developer",
-                    "Software Engineer",
+                    "Full Stack Developer",
                     "Frontend Developer",
                     "Backend Developer",
                 ],
